@@ -1,0 +1,31 @@
+{
+	"storyName": "UNLOADED ft. philiplol",
+	"difficulties": "Hard, Fucked",
+	"hideFreeplay": false,
+	"weekBackground": "uberkids",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Unloaded",
+			"uberkid",
+			[
+				40,
+				95,
+				168
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"uberkid",
+		""
+	],
+	"weekName": "Uberkids Unloaded"
+}

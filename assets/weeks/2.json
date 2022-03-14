@@ -1,0 +1,31 @@
+{
+	"storyName": "Challeng-Edd ft. philiplol",
+	"difficulties": "Hard, Fucked",
+	"hideFreeplay": false,
+	"weekBackground": "edd",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		51,
+		173,
+		51
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"ChallengEdd",
+			"edd",
+			[
+				51,
+				173,
+				51
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"edd",
+		""
+	],
+	"weekName": "Challenge-Edd"
+}

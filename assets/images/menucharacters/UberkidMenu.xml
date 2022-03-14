@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UberkidMenu.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UberKidIdle0000" x="0" y="0" width="424" height="479" frameX="-2" frameY="-8" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0001" x="0" y="0" width="424" height="479" frameX="-2" frameY="-8" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0002" x="424" y="0" width="420" height="479" frameX="-3" frameY="-8" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0003" x="424" y="0" width="420" height="479" frameX="-3" frameY="-8" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0004" x="844" y="0" width="420" height="485" frameX="-1" frameY="-2" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0005" x="844" y="0" width="420" height="485" frameX="-1" frameY="-2" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0006" x="1264" y="0" width="420" height="486" frameX="0" frameY="-1" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0007" x="1264" y="0" width="420" height="486" frameX="0" frameY="-1" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0008" x="0" y="486" width="419" height="487" frameX="0" frameY="0" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0009" x="0" y="486" width="419" height="487" frameX="0" frameY="0" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0010" x="0" y="486" width="419" height="487" frameX="0" frameY="0" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0011" x="0" y="486" width="419" height="487" frameX="0" frameY="0" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0012" x="0" y="486" width="419" height="487" frameX="0" frameY="0" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidIdle0013" x="0" y="486" width="419" height="487" frameX="0" frameY="0" frameWidth="426" frameHeight="487"/>
+	<SubTexture name="UberKidTaunt0000" x="419" y="486" width="466" height="491" frameX="0" frameY="0" frameWidth="469" frameHeight="494"/>
+	<SubTexture name="UberKidTaunt0001" x="419" y="486" width="466" height="491" frameX="0" frameY="0" frameWidth="469" frameHeight="494"/>
+	<SubTexture name="UberKidTaunt0002" x="885" y="486" width="446" height="486" frameX="-23" frameY="-8" frameWidth="469" frameHeight="494"/>
+	<SubTexture name="UberKidTaunt0003" x="885" y="486" width="446" height="486" frameX="-23" frameY="-8" frameWidth="469" frameHeight="494"/>
+	<SubTexture name="UberKidTaunt0004" x="1331" y="486" width="450" height="487" frameX="-19" frameY="-7" frameWidth="469" frameHeight="494"/>
+	<SubTexture name="UberKidTaunt0005" x="1331" y="486" width="450" height="487" frameX="-19" frameY="-7" frameWidth="469" frameHeight="494"/>
+	<SubTexture name="UberKidTaunt0006" x="1331" y="486" width="450" height="487" frameX="-19" frameY="-7" frameWidth="469" frameHeight="494"/>
+	<SubTexture name="UberKidTaunt0007" x="1331" y="486" width="450" height="487" frameX="-19" frameY="-7" frameWidth="469" frameHeight="494"/>
+	<SubTexture name="UberKidTaunt0008" x="1331" y="486" width="450" height="487" frameX="-19" frameY="-7" frameWidth="469" frameHeight="494"/>
+</TextureAtlas>
